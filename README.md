@@ -12,7 +12,7 @@
 * [0x08 Contributing](#0x08-Contributing)
 * [0x09 Todo](#0x09-Todo)
 * [0x0A References](#0x0A-References)
-* [0x0B Authors](#0x0B-Authors)
+
 
 ## 0x01 Introduction
 
