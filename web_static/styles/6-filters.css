@@ -76,12 +76,12 @@ li{
 ul{
     padding-top: 30px;
 }
-.locations:hover >.popover{
+.locations:hover .popover{
     visibility: visible;
     margin-bottom: 50px;
 }
 
-.amenities:hover > .popover{
+.amenities:hover .popover{
     visibility: visible;
 }
 
